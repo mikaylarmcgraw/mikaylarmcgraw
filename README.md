@@ -11,4 +11,4 @@
 ## Skills
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
-
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
