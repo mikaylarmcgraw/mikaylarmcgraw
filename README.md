@@ -13,3 +13,4 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 ![Visual Stuido Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white)
