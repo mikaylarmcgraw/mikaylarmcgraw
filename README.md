@@ -8,3 +8,5 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love raising chickens!
 
+## Skills
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
