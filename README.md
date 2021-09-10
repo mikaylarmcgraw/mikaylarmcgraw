@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love raising chickens!
 - 🤔 By 2021 end my plan is to accomplish completing my BS in computer science while improving my understanding of Python and ML
-🧭 In 5 years I hope to have a deeper understanding of backend technologies and ML to further my growth as a full stack engineer
+- 🧭 In 5 years I hope to have a deeper understanding of backend technologies and ML to further my growth as a full stack engineer
 
 ## Skills
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
