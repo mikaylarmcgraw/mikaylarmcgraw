@@ -22,4 +22,4 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-9049EB?logo=Blazor&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-5C2D91?logo=Blazor&logoColor=white)
