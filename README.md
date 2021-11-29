@@ -23,3 +23,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-5C2D91?logo=Blazor&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-FFFFFF?logo=Flask&logoColor=black)
