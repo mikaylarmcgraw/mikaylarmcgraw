@@ -2,12 +2,12 @@
 
 ## About me
 
-- 🔭 I’m currently working at Sage as a software engineer
+- 🔭 I’m currently working at New Relic as a software engineer
 - 🌱 I’m currently learning React, TypeScript, Python
 - 📫 How to reach me: Discord, Slack, Email
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love raising chickens!
-- 🤔 By 2021 end my plan is to accomplish completing my BS in computer science while improving my understanding of Python and ML
+- ⚡ Fun fact: Outside of being a mom/developer I love spending time running/hiking outdoors
+- 🤔 By 2022 end my plan is to create multiple tutorials on my YouTube channel focusing on programming fundamentals, this way I can grow my abilities as a future teacher/mentor
 - 🧭 In 5 years I hope to have a deeper understanding of backend technologies and ML to further my growth as a full stack engineer
 
 ## Skills
