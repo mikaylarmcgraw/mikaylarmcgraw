@@ -7,7 +7,7 @@
 - 📫 How to reach me: Discord, Slack, Email
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Outside of being a mom/developer I love spending time running/hiking outdoors
-- 🤔 By 2022 end my plan is to create multiple tutorials on my YouTube channel focusing on programming fundamentals, this way I can grow my abilities as a future teacher/mentor
+- 🤔 By the end of 2024, my goal is to have successfully developed multiple full-stack personal projects, enhancing my comprehension of the latest technologies in the field.
 - 🧭 In 5 years I hope to have a deeper understanding of backend technologies and ML to further my growth as a full stack engineer
 
 ## Skills
