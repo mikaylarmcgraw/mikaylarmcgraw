@@ -18,6 +18,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-61DAFB?logo=Go&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white)
